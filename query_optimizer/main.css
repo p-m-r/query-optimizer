@@ -1,0 +1,8 @@
+
+.textarea {
+	margin-bottom: 20px;
+}
+#warning1, #warning2 {
+	transform: translateY(-10px);
+	color: red;
+}

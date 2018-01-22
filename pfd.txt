@@ -1,0 +1,3 @@
+- add a few processed queries at the start of the program
+- enable processing of more advanced queries, e.g. controlling which join should be performed first
+- add moving the root of the tree if it grows only to one side

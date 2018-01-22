@@ -1,0 +1,6 @@
+Moreover one programming exercise has been given to you in last class. 
+(to develop an initial expression (R.A.) from a string of SQL syntax 
+and try to display in form of a query tree. 
+Define a set of heuristics and try to upgrade the query tree 
+compared to the initial expression)
+
